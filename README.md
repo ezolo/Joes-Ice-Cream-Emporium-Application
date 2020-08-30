@@ -17,7 +17,8 @@
 
 ### 2️⃣ Saving Form ###
 > If the user has finished filling out all of the information on the main screen, they will be able to go up into file and click save to save their order.
-> ![](https://i.imgur.com/vVCgei9.png)
+> 
+>![](https://i.imgur.com/vVCgei9.png)
 
 
 ### 3️⃣ Getting Help ###
