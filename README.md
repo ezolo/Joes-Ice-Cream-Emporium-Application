@@ -23,7 +23,8 @@
 
 ### 3️⃣ Getting Help ###
 > If the user is having issues filling out the form and/or if they need more assistance with what to fill out, they can click on the help button on the top menu and go to about.
-> ![](https://i.imgur.com/GtbUGv3.png)
+>
+>![](https://i.imgur.com/GtbUGv3.png)
 
 
 ### 4️⃣ Exiting a Form ###
